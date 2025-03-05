@@ -1,6 +1,6 @@
-# 🐍 Python Project
+# 🐍 Python 
 
-## 📌 Project Overview
+## 📌 Overview
 A **Python-based** project designed to showcase **efficiency, scalability, and functionality**. This project leverages Python's capabilities to solve real-world problems with **clean, modular, and optimized code**.
 
 ## 🚀 Features
@@ -10,11 +10,15 @@ A **Python-based** project designed to showcase **efficiency, scalability, and f
 ✅ Designed with **scalability and reusability** in mind.  
 ✅ Can be integrated with **APIs, databases, and automation tools**.  
 
+<br>
+
 ## 🛠 Tech Stack
 - **Python** – Core programming language 🐍  
 - **Libraries Used** – `requests`, `pandas`, `flask`, `numpy`, etc.  
 - **Database (if applicable)** – SQLite, MySQL, or PostgreSQL  
 - **APIs & Integrations** – Optional third-party API usage  
+
+<br>
 
 ## 📦 Installation
 1. **Clone the repository:**  
@@ -34,6 +38,9 @@ A **Python-based** project designed to showcase **efficiency, scalability, and f
    ```bash
    pip install -r requirements.txt
    ```
+
+<br>
+
 
 ## 🚦 Usage
 Run the Python script using:
