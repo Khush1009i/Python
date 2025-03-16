@@ -6,12 +6,12 @@ A simple, small scale **Python-based**  Management System to handle **order proc
 
 ## 🚀 Features Preview
 
-| 📸 Screenshot | 📝 Description | ⚙️ Functionality | 🛠️ Status |
-|--------------|--------------|----------------|------------|
-| ![Order Management]() | Cafe Order Management | **Take and track customer orders & genrates bill .** | ✅ Completed |
-| ![Billing System]() | Movie Ticket Booking System | **Books  and generate receipts.** | ✅ Completed |
-| ![Inventory Control]() | Bank Management | **Create new account.** | ✅ Complete |
-| ![Employee Management]() | Library Management | **Book Tracking and Scheduling System**  . | ✅ Complete |
+| 📝 Description             | ⚙️ Functionality                                        | 🛠️ Status |
+|---------------------------- |----------------                                         |------------     |
+| Cafe Order Management       | **Take and track customer orders & genrates bill .**    | ✅ Completed   |
+| Movie Ticket Booking System | **Books  and generate receipts.**                       | ✅ Completed |
+| Bank Management             | **Create new account.**                                 | ✅ Complete |
+| Library Management          | **Book Tracking and Scheduling System**  .              | ✅ Complete |
 
 ## 🛠️ Tech Stack
 - **Programming Language:** Python  
@@ -19,7 +19,7 @@ A simple, small scale **Python-based**  Management System to handle **order proc
 ## ⚙️ Installation & Usage
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/Cafe-Management-System.git
+   https://github.com/Khush1009i/Python/tree/main/Management%20projects%20using%20python.git
 
 ---
 
