@@ -23,7 +23,7 @@ A **Python-based** project designed to showcase **efficiency, scalability, and f
 ## 📦 Installation
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/Khush1009i/Mini-Python-Projects.git
+   git clone https://github.com/Khush1009i/Python-Projects.git
    ```
 2. **Navigate to the project directory:**  
    ```bash
